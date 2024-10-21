@@ -12,7 +12,7 @@ User interface (UI) behavior
 
 Error handling and boundary conditions
 
-Performance under different loads
+
 
 # Features
 
@@ -54,4 +54,4 @@ Expected Result: The expected outcome for each test case.
 
 Actual Result: A field to document whether the test passed or failed.
 
-Remarks: Any additional notes regarding the test case.
+Status:  if the test passed or failed
